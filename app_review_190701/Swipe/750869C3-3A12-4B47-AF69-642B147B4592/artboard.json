@@ -79,12 +79,8 @@
       "id": "9343F432-E689-4606-82C1-816F94CFECD5"
     },
     {
-      "class": "rectangle",
-      "id": "53D9550A-D691-4883-8ECD-C3D9A9D7565F"
-    },
-    {
-      "class": "text",
-      "id": "CD2622CA-9290-4A10-A2B5-D1223246B907"
+      "class": "group",
+      "id": "5E208FF0-1C5B-4AD3-A2C3-CDEF970786E6"
     },
     {
       "class": "symbolInstance",
@@ -104,7 +100,7 @@
     "offersLandscapeVariant": 1,
     "width": 375
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
