@@ -1,0 +1,328 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "84B1224F-C55E-4C08-98D8-F9985167C5F9",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+    {
+      "_class": "MSImmutableForeignSymbol",
+      "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+      "originalMaster": {
+        "_class": "symbolMaster",
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627451,
+          "green": 0.7843137254901961,
+          "red": 0.3529411764705882
+        },
+        "booleanOperation": 0,
+        "changeIdentifier": 196,
+        "clippingMaskMode": 0,
+        "do_objectID": "4EF5364C-932C-4EC2-90B4-21C4E8F0BDE0",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "do_objectID": "7D441A62-4E31-4877-8009-5866850F88E2",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "do_objectID": "6D063179-3DB8-4B9F-A97B-3CF67B0DEDA7",
+          "height": 812,
+          "width": 375,
+          "x": -3730,
+          "y": 3108
+        },
+        "hasBackgroundColor": true,
+        "hasClickThrough": true,
+        "hasClippingMask": false,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "9985B5EC-379C-4C4B-8764-CE3CC828DA8B",
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isFlowHome": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "layers": [
+          {
+            "_class": "bitmap",
+            "booleanOperation": 0,
+            "clippingMask": "{{0, 0}, {1, 1}}",
+            "clippingMaskMode": 0,
+            "do_objectID": "53EE637B-1CAE-4B8A-945E-2E705BCBCC93",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "do_objectID": "21D58ABF-3492-4B28-8A43-A607BFA5F444",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "fillReplacesImage": false,
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": true,
+              "do_objectID": "1D5817B6-A1AD-499B-8622-77F918C94DF6",
+              "height": 812,
+              "width": 375,
+              "x": 0,
+              "y": 0
+            },
+            "hasClippingMask": false,
+            "image": {
+              "_class": "MSJSONFileReference",
+              "_ref": "images/9b57f6a63dd2d30204ccfd952accf40041101ecd.png",
+              "_ref_class": "MSImageData"
+            },
+            "intendedDPI": 0,
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "For Reference - Display Shape",
+            "nameIsFixed": true,
+            "resizingConstraint": 45,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "do_objectID": "8B5749A5-F692-45B8-A786-AD8DEC60BAA8",
+              "endMarkerType": 0,
+              "miterLimit": 10,
+              "startMarkerType": 0,
+              "windingRule": 1
+            }
+          }
+        ],
+        "name": "Device Bezels / iPhoneXS - Display Shape",
+        "nameIsFixed": true,
+        "presetDictionary": {
+          "height": 812,
+          "name": "iPhone X",
+          "offersLandscapeVariant": 1,
+          "resizable": 1,
+          "width": 375
+        },
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "do_objectID": "730E8A55-B365-4455-A0E1-98A6C7400FA7",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "symbolID": "4B41368B-41CC-4EFA-830F-26AE39B613E6",
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "E2DC99DE-BFCF-40B9-B63E-53A75E0858E3",
+          "guides": [
+          ]
+        }
+      },
+      "sourceLibraryName": "Apple iOS UI",
+      "symbolMaster": {
+        "_class": "symbolMaster",
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627451,
+          "green": 0.7843137254901961,
+          "red": 0.3529411764705882
+        },
+        "booleanOperation": 0,
+        "changeIdentifier": 196,
+        "clippingMaskMode": 0,
+        "do_objectID": "4EF5364C-932C-4EC2-90B4-21C4E8F0BDE0",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "do_objectID": "7D441A62-4E31-4877-8009-5866850F88E2",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "do_objectID": "6D063179-3DB8-4B9F-A97B-3CF67B0DEDA7",
+          "height": 812,
+          "width": 375,
+          "x": -3730,
+          "y": 3108
+        },
+        "hasBackgroundColor": true,
+        "hasClickThrough": true,
+        "hasClippingMask": false,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "9985B5EC-379C-4C4B-8764-CE3CC828DA8B",
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isFlowHome": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "layers": [
+          {
+            "_class": "bitmap",
+            "booleanOperation": 0,
+            "clippingMask": "{{0, 0}, {1, 1}}",
+            "clippingMaskMode": 0,
+            "do_objectID": "53EE637B-1CAE-4B8A-945E-2E705BCBCC93",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "do_objectID": "21D58ABF-3492-4B28-8A43-A607BFA5F444",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "fillReplacesImage": false,
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": true,
+              "do_objectID": "1D5817B6-A1AD-499B-8622-77F918C94DF6",
+              "height": 812,
+              "width": 375,
+              "x": 0,
+              "y": 0
+            },
+            "hasClippingMask": false,
+            "image": {
+              "_class": "MSJSONFileReference",
+              "_ref": "images/9b57f6a63dd2d30204ccfd952accf40041101ecd.png",
+              "_ref_class": "MSImageData"
+            },
+            "intendedDPI": 0,
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "For Reference - Display Shape",
+            "nameIsFixed": true,
+            "resizingConstraint": 45,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "do_objectID": "8B5749A5-F692-45B8-A786-AD8DEC60BAA8",
+              "endMarkerType": 0,
+              "miterLimit": 10,
+              "startMarkerType": 0,
+              "windingRule": 1
+            }
+          }
+        ],
+        "name": "Device Bezels / iPhoneXS - Display Shape",
+        "nameIsFixed": true,
+        "presetDictionary": {
+          "height": 812,
+          "name": "iPhone X",
+          "offersLandscapeVariant": 1,
+          "resizable": 1,
+          "width": 375
+        },
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "do_objectID": "730E8A55-B365-4455-A0E1-98A6C7400FA7",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "symbolID": "5A9B8EE8-D4A5-48DE-A475-4B5B2D5F787B",
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "E2DC99DE-BFCF-40B9-B63E-53A75E0858E3",
+          "guides": [
+          ]
+        }
+      },
+      "symbolPrivate": false
+    }
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "52.5",
+    "build": 67469,
+    "version": 112
+  },
+  "pages": [
+    "Swipe",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

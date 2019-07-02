@@ -1,0 +1,125 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "750869C3-3A12-4B47-AF69-642B147B4592",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 812,
+    "width": 375,
+    "x": -291,
+    "y": -9
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0849E905-D133-44AE-A08F-E0F200949D4A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "344C541D-A6A3-4799-AD13-E29765BF2928"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9264565C-1FCD-4B45-BB74-68F77C090BB5"
+    },
+    {
+      "class": "oval",
+      "id": "BA08DD17-9E6C-4021-8DBC-CFF409AF4EA7"
+    },
+    {
+      "class": "text",
+      "id": "5C1CF412-A072-4912-86CE-91C4A63B2C49"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B56C7652-7B80-4D67-988A-48509C204EE1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4BB7BC2-7536-40F2-8EE9-D9D2EDDD5E4E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9343F432-E689-4606-82C1-816F94CFECD5"
+    },
+    {
+      "class": "rectangle",
+      "id": "53D9550A-D691-4883-8ECD-C3D9A9D7565F"
+    },
+    {
+      "class": "text",
+      "id": "CD2622CA-9290-4A10-A2B5-D1223246B907"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6AF50001-66AB-480A-8AA4-9F7E028923D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "191A8BAD-833E-4DE0-8281-B80918191355"
+    }
+  ],
+  "name": "Form",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone XS",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

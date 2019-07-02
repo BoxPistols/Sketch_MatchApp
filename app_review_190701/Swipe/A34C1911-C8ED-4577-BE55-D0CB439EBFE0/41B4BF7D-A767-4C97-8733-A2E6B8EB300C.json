@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "41B4BF7D-A767-4C97-8733-A2E6B8EB300C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4F56CD75-010A-4FB9-9AED-14F8830EDA8D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "048087F5-AEC5-4285-B623-D78830196B2A",
+    "height": 343,
+    "width": 375,
+    "x": 0,
+    "y": 277
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "-g-stock_list open",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0257ADE9-71E8-4E45-B458-A7326CFD7645",
+      "overrideName": "1E680026-E818-4C9C-87CC-5E3EB41A29E1_stringValue",
+      "value": "サン、共に生きよう"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC7FE83B-FBCD-4BC9-8CB6-6B91B8BED95B",
+      "overrideName": "7F1F937C-4D5E-4EAC-ABD9-B5135E900CBE_stringValue",
+      "value": "おっことぬしさま〜〜〜〜〜〜〜祟り神にならないでーーーーならないでーーーーー"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0931AAC7-BAF7-4A28-BC4C-C585AB841CE1",
+      "overrideName": "ADB779AD-2270-4B96-9A82-D44286F5C972_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c912105ce131c33cec96e76f47a7b4a0ba388cde.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A23B740B-10E1-4A94-A584-6FEDF0CD89F0",
+      "overrideName": "F9DCD878-323E-4707-93B8-29E12EECD732_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4b3dfc31e9a416a0c8a6f39997f1a731572809f9.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "02D3ACB1-06A8-4E63-9E3B-8CDFED573C2B",
+      "overrideName": "54DB787A-6E36-4EA1-AF0B-44DD9C24296B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8c513b43fc91b4053831abfe0d126ecdc60c5599.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "725910EE-2F11-426A-983A-7DD2981377A6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "975CF2C8-6012-42F3-B578-AC4FE6BE16E3",
+  "verticalSpacing": 0
+}

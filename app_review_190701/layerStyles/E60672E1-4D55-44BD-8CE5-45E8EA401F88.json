@@ -1,0 +1,12 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "E60672E1-4D55-44BD-8CE5-45E8EA401F88",
+  "name": "Badge_active",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

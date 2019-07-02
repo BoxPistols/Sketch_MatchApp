@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B54CBCFA-70E6-4F5E-B459-2BA7FFAD9530",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7112B2D-990B-48DD-B6A9-39F5FC23645F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F7A309C2-FE94-4324-BFA3-0605B147974E",
+    "height": 812,
+    "width": 375,
+    "x": 1,
+    "y": 1
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "Device Bezels / iPhoneXS - Display Shape",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D46E450F-88AA-4B6E-8E76-40B696A46915",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5A9B8EE8-D4A5-48DE-A475-4B5B2D5F787B",
+  "verticalSpacing": 0
+}

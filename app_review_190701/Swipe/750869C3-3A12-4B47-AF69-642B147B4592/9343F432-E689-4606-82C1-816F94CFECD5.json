@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9343F432-E689-4606-82C1-816F94CFECD5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 58,
+    "width": 134,
+    "x": 195.5,
+    "y": 433
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "-g-pulldown copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "23B722D7-1234-49BB-9534-2C627D5B5798_stringValue",
+      "value": "Gender"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C036E2BC-2ACD-458E-8565-3AC5C0F395E4",
+      "overrideName": "91F504AE-BEBA-4411-99CC-06D860AFC304_stringValue",
+      "value": "性別を選択"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ED4C148C-9D29-452F-BA3A-B5E7563563B9",
+  "verticalSpacing": 0
+}

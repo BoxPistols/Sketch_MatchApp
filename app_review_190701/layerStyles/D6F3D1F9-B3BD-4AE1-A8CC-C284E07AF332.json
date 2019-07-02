@@ -1,0 +1,17 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "D6F3D1F9-B3BD-4AE1-A8CC-C284E07AF332",
+  "name": "Badge_inactive",
+  "value": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

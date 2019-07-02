@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0EDDA5CB-53F2-4744-8DB9-7C1E9D0AFF2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "044602F6-35AE-453B-A418-63DA2B1B34E1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C5540540-F523-48D1-AEE9-6B4E5976B0BC",
+    "height": 124,
+    "width": 319,
+    "x": 28,
+    "y": 441
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "caption",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B249E7CC-A746-4A72-9699-CD2F0486941F",
+      "overrideName": "EF09EABD-F109-4B48-9DD7-26E1420FAEF6_stringValue",
+      "value": "上京したばかりの少女の心情を表現しました。頑張りました。あああああああああああああ"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9394155A-87AA-46C5-839B-837D9A78D807",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "13C63406-A3BA-4DE5-9216-441B03244327",
+  "verticalSpacing": 0
+}

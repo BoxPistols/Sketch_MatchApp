@@ -1,0 +1,171 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A30AA24F-CC42-4AA0-A45A-AB54A0B783EA",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6285944B-2CAB-4610-BCA1-7F8CBB090E21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F953D6D-ADE1-47EE-8F3B-5E28D75C2D1F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "19CB9E42-BB7D-473C-925B-2FDA427C179A",
+    "height": 812,
+    "width": 375,
+    "x": 2084,
+    "y": -9
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4032A8BB-B523-4464-8FCE-B35D376F6A8A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "72D5EB4C-B7C6-4730-BF7D-2A9BFE76B6F8"
+    },
+    {
+      "class": "rectangle",
+      "id": "AAC9D9CD-6C0C-4C40-9327-A35CC3C4AD99"
+    },
+    {
+      "class": "triangle",
+      "id": "05E55F34-013C-4A7F-978A-39A74047A44B"
+    },
+    {
+      "class": "triangle",
+      "id": "94C07E6C-70CF-4EE5-AC74-B1CCEABBE6FD"
+    },
+    {
+      "class": "text",
+      "id": "280EF4E1-7143-4B63-A07F-D561F7371622"
+    },
+    {
+      "class": "text",
+      "id": "66E59299-8DAB-4183-B3B2-7C139603C281"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ECBA2C81-B3AF-4EE1-824D-1C3DEB4D23B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E94C8498-B576-47FB-BAA9-C22B48250570"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "555F8945-52E6-4062-B3BF-3C6848B23236"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "142FD945-82CF-4CF2-8027-42DE71BA9665"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6A66677-ABCE-405A-9A4F-72A714A85CDD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "903696FB-6D4E-48E4-B326-9BE07489A60E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2EAE6D62-C967-485E-B3F9-5473C6CF0408"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE89D0D5-188D-4EF6-9B30-22571845897E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E6EA93E-A5A5-430A-A608-AAC32C452833"
+    },
+    {
+      "class": "rectangle",
+      "id": "8A0CC44E-CAAE-4809-A7F7-A27E9B882822"
+    },
+    {
+      "class": "rectangle",
+      "id": "D24AA5FB-1D57-4987-AB8B-17BB9C9469C3"
+    },
+    {
+      "class": "text",
+      "id": "A73BB110-4C8C-4360-A6BB-8C906D23EFAC"
+    },
+    {
+      "class": "text",
+      "id": "F77B6D5A-7524-4557-A8A0-E011FBA5D25D"
+    },
+    {
+      "class": "text",
+      "id": "33EF714D-E627-4556-B032-1EDA1D0B4C39"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9ABECD3C-2968-44AA-B461-49B638CE11EF"
+    },
+    {
+      "class": "text",
+      "id": "F69AD958-E8E5-486B-B849-C2028FB7B370"
+    }
+  ],
+  "name": "Log_reviewed",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone XS",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F866F70-4BDF-48F0-A0A3-DA75ECF05C9A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6A92BAFF-813B-4BC3-A291-0DC7FC03A6D5",
+    "guides": [
+    ]
+  }
+}

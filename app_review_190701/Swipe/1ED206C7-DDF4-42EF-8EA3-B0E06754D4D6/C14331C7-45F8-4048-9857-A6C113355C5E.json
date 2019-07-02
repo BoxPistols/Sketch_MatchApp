@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C14331C7-45F8-4048-9857-A6C113355C5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5A0D0E8-842F-4ED6-8927-A16A6B1C9867",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "189625CD-F408-4272-87E9-FB58CA454C3B",
+    "height": 114,
+    "width": 375,
+    "x": 0,
+    "y": 258
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "-g-stock_list copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "64118D81-FABD-47E6-92D6-7B811D8992FC",
+      "overrideName": "738838A9-05BE-4B83-B0D9-279425E5E046/D0F48F65-1EDE-4BD1-8D28-B0E7D7803525_stringValue",
+      "value": "陶芸家"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DCF6AC7B-0972-408D-AD69-7118007FB03D",
+      "overrideName": "738838A9-05BE-4B83-B0D9-279425E5E046/08042F8A-6BF6-4C57-9D6A-C6A0B3F3D39B_stringValue",
+      "value": "Cocokamy"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "406D1F68-F287-4813-9B16-162AE3E54D69",
+      "overrideName": "738838A9-05BE-4B83-B0D9-279425E5E046/828F7036-1229-4DD3-B359-61F4540CD0A8_stringValue",
+      "value": "卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4E65A7F2-8687-4F44-9DAC-6B33AE964491",
+      "overrideName": "738838A9-05BE-4B83-B0D9-279425E5E046/B3E711A9-9FAA-4A09-911E-A21580E1B7CE/F830ED92-5CBA-4B51-BA7E-90E56ECDD4EE_layerStyle",
+      "value": "1C731EF0-CBE1-4921-86CE-22BE533686C7"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD667CE9-108C-436C-9966-E754C959A9A7",
+      "overrideName": "738838A9-05BE-4B83-B0D9-279425E5E046/B3E711A9-9FAA-4A09-911E-A21580E1B7CE/3ADEF533-3981-4E45-A18F-45C56E7774A6_layerStyle",
+      "value": "1C731EF0-CBE1-4921-86CE-22BE533686C7"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "35AF0498-B49F-4ABF-B044-06EE9684821D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "90D71FDF-B734-423D-A004-3F4731A648A3",
+  "verticalSpacing": 0
+}

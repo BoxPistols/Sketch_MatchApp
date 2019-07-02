@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9264565C-1FCD-4B45-BB74-68F77C090BB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 58,
+    "width": 285,
+    "x": 44.5,
+    "y": 507
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "-g-pulldown_2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90AF4869-7E19-46BE-9084-0624586ED8BC",
+      "overrideName": "6FF3D86D-18DC-494B-BC89-4243ECD00FF8_stringValue",
+      "value": "Genre"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98450288-07FF-4DA4-93BD-F706D56911A4",
+      "overrideName": "BF91563D-6AFA-49A1-AA1B-43D953C52776_stringValue",
+      "value": "登録ジャンルを選択してください"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8F7A73E5-2B9F-430B-91ED-B8C76245A714",
+  "verticalSpacing": 0
+}

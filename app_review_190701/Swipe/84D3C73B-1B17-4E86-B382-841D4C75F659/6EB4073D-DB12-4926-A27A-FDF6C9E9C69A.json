@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6EB4073D-DB12-4926-A27A-FDF6C9E9C69A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B343D9C9-6E79-4A01-989F-610E20EF56D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B159F072-10EC-4DA5-80DC-EF2266F51B76",
+    "height": 114,
+    "width": 375,
+    "x": 0,
+    "y": 278
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "-g-stock_list copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "64118D81-FABD-47E6-92D6-7B811D8992FC",
+      "overrideName": "738838A9-05BE-4B83-B0D9-279425E5E046/D0F48F65-1EDE-4BD1-8D28-B0E7D7803525_stringValue",
+      "value": "陶芸家"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DCF6AC7B-0972-408D-AD69-7118007FB03D",
+      "overrideName": "738838A9-05BE-4B83-B0D9-279425E5E046/08042F8A-6BF6-4C57-9D6A-C6A0B3F3D39B_stringValue",
+      "value": "Cocokamy"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "406D1F68-F287-4813-9B16-162AE3E54D69",
+      "overrideName": "738838A9-05BE-4B83-B0D9-279425E5E046/828F7036-1229-4DD3-B359-61F4540CD0A8_stringValue",
+      "value": "卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍卍"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "20B0B3B2-B9FD-421D-A96D-2C67095B9EB8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "90D71FDF-B734-423D-A004-3F4731A648A3",
+  "verticalSpacing": 0
+}
